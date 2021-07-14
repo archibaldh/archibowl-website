@@ -1,0 +1,90 @@
+body {
+	background-color: #232323;
+	color: white;
+	font-family: contemporary;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.Header {
+  	height: 60px;
+  	border: 15px solid #1E1E1E;
+	background-color: #1E1E1E;
+}
+.Name{
+	text-align: left;
+	position: relative;
+	padding-left: 25px;	
+}
+
+.Pages{
+	text-align: right;
+  	position: relative;
+  	top: -60%;
+}
+.ProjectLink{
+	color: white;
+ 	background-color: transparent;
+ 	text-decoration: none;
+	padding-right: 50px;
+}
+.BlogLink{
+	color: white;
+ 	background-color: transparent;
+ 	text-decoration: none;
+	padding-right: 50px;
+}
+.GithubLink{
+	color: white;
+ 	background-color: transparent;
+ 	text-decoration: none;
+	padding-right: 50px;
+}
+.Banner1{
+	height:360px;
+	background-color:#00aeef;
+	margin-top:-40px;
+}
+.Banner1Text{
+	text-align: right;
+	padding-top: 140px;
+	font-size: 40px;
+	padding-right: 25px;
+	max-height: 40px;
+}
+.Banner1Subtitle{
+	text-align: right;
+	padding-right: 25px;
+}
+.Banner2{
+	height: 400px;
+	background-color: #1E1E1E;
+	margin-top: -40px;
+}
+.Banner2text{
+	font-size: 40px;
+	padding-left: 75px;
+	padding-top: 75px;
+}
+
+.GithubLogo{
+	padding-left: 550px;
+	width: 120px;
+	height: 120px;
+	vertical-align: middle;
+}
+
+.TwitterLogo{
+	width: 120px;
+	height: 120px;
+	padding-left: 100px;
+	vertical-align: middle;
+}
+
+.sociallink{
+	text-decoration: none;
+}
+.Footer{
+	text-align: center;
+}
