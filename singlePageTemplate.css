@@ -23,6 +23,12 @@ body {
   	position: relative;
   	top: -60%;
 }
+.HomeLink{
+		color: white;
+ 	background-color: transparent;
+ 	text-decoration: none;
+	padding-right: 50px;
+}
 .ProjectLink{
 	color: white;
  	background-color: transparent;
@@ -87,8 +93,4 @@ body {
 }
 .Footer{
 	text-align: center;
-}
-.IndexLink{
-	text-decoration: none;
-	color: white;
 }
